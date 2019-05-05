@@ -1,0 +1,35 @@
+body{
+    background: #f4f4f4;
+    font-family: arial;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+header{
+    background: #333333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 4px solid #000;
+    margin-bottom: 10px;
+
+}
+#container{
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+#box{
+    width: 500px;
+    height: 90px;
+    background: #333333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: relative;
+}
