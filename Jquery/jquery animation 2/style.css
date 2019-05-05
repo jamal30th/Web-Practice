@@ -1,0 +1,24 @@
+.contentAfter{
+    display: none;
+    font-size: 14px;
+    font-family: arial;
+    color: #fff;
+    text-align: left;
+    line-height: 16px;
+    opacity: 0;
+}
+.contentBefore{
+    font-size: 22px;
+    font-family: arial;
+    color: #fff;
+    text-align: center;
+
+    
+}
+.contentBox{
+    width: 240px;
+    height: 60px;
+    border-radius: 6px;
+    background: blue;
+    padding: 20px;
+}
